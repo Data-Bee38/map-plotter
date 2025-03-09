@@ -1,2 +1,2 @@
-# map-plotter
-D3.js and OpenStreetMap Address Geocoding
+![Map Plotter](screenshot.jpg)  <br>
+[Map Plotter](https://codepen.io/Data-Bee38/pen/YzmxQOE)
